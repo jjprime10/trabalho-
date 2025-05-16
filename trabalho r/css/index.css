@@ -1,0 +1,28 @@
+body{
+    background-color: rgba(0, 250, 237, 0.233);
+}
+
+h1 {background-color: rgb(5, 184, 255); text-align: center ;}
+
+p{
+    font-size: 30px;
+    text-align: justify;
+}
+
+ul{
+    padding: 15px;
+}
+
+.game {
+  width: 300px;
+  height: 200;
+  border-radius: 50px;
+}
+
+table, th, td {
+    border: 2px solid black;
+}
+ a:hover {
+    color: red;
+ }
+ 
